@@ -86,7 +86,7 @@ Finally, run `rbenv -v` from your terminal to verify that `rbenv` has been insta
 
 ~~~bash
 rbenv -v
-rbenv 1.1.2-2-g4e92322
+rbenv 1.1.1-39-g59785f6
 ~~~
 
 If you do not get a version number, please ask for help in the [Odin Project Chat Room](https://discordapp.com/channels/505093832157691914/505093832157691916).
